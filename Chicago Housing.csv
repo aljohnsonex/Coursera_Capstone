@@ -1,53 +1,53 @@
-Neighborhood, Average Rent ,Latitude,Longitude
-Near South Side," $2,803 ",41.8608,-87.6257
-Near North Side," $2,623 ",41.9039,-87.6315
-Loop ," $2,470 ",41.8786,-87.6251
-Near West Side," $2,386 ",41.8668,-87.6664
-West Town," $2,122 ",41.8936,-87.6722
-Lincoln Park," $2,016 ",41.9255,-87.6488
-North Center," $1,925 ",41.9467,-87.6883
-Hyde Park," $1,752 ",41.7948,-87.5917
-Avondale," $1,730 ",41.9415,-87.7025
-Lake View," $1,703 ",41.9398,-87.6589
-Jefferson Park," $1,673 ",41.9825,-87.7704
-Logan Square," $1,667 ",41.9231,-87.7093
-Lower West Side," $1,571 ",41.8523,-87.666
-Mckinley Park," $1,544 ",41.8316,-87.6729
-North Park," $1,451 ",41.9828,-87.7284
-Lincoln Square," $1,439 ",41.9687,-87.689
-Edgewater," $1,430 ",41.9837,-87.6601
-Albany Park," $1,408 ",41.9683,-87.728
-West Ridge," $1,402 ",42.0006,-87.6926
-Uptown," $1,396 ",41.9665,-87.6533
-Grand Boulevard," $1,387 ",41.8131,-87.6178
-Kenwood," $1,384 ",41.8095,-87.5933
-Hermosa," $1,368 ",41.9207,-87.734
-Rogers Park," $1,351 ",42.0126,-87.6746
-O'Hare," $1,344 ",41.9742,-87.9073
-South Lawndale," $1,326 ",41.8445,-87.705
-Humboldt Park," $1,302 ",41.8991,-87.7213
-Irving Park," $1,268 ",41.9538,-87.7193
-West Pullman," $1,253 ",41.6779,-87.642
-West Garfield Park," $1,243 ",41.8779,-87.7305
-Douglas," $1,225 ",41.8347,-87.6206
-South Deering," $1,224 ",41.6737,-87.5753
-Bridgeport," $1,219 ",41.8364,-87.6487
-Englewood," $1,202 ",41.7753,-87.6416
-Woodlawn," $1,183 ",41.7806,-87.5915
-Washington Park," $1,182 ",41.7945,-87.616
-West Englewood," $1,175 ",41.7781,-87.6667
-East Garfield Park," $1,136 ",41.881,-87.7012
-North Lawndale ," $1,113 ",41.859,-87.7152
-Roseland," $1,084 ",41.7108,-87.6236
-South Chicago," $1,048 ",41.7397,-87.5544
-Austin," $1,029 ",41.8949,-87.7654
-Auburn Gresham," $1,023 ",41.7434,-87.6562
-Portage Park," $1,017 ",41.9532,-87.7646
-South Shore," $1,012 ",41.759,-87.57
-Grand Crossing, $978 ,41.7657,-87.6153
-Avalon Park, $972 ,41.7442,-87.5856
-Washington Heights, $951 ,41.7176,-87.6431
-Belmont Cragin, $910 ,41.9313,-87.7663
-Chicago Lawn, $894 ,41.7718,-87.6932
-Chatham, $883 ,41.7401,-87.6146
-Calumet Heights, $871 ,41.7298,-87.5705
+Neighborhood,Average Rent,Latitude,Longitude
+Near South Side,2803,41.8608,-87.6257
+Near North Side,2623,41.9039,-87.6315
+Loop ,2470,41.8786,-87.6251
+Near West Side,2386,41.8668,-87.6664
+West Town,2122,41.8936,-87.6722
+Lincoln Park,2016,41.9255,-87.6488
+North Center,1925,41.9467,-87.6883
+Hyde Park,1752,41.7948,-87.5917
+Avondale,1730,41.9415,-87.7025
+Lake View,1703,41.9398,-87.6589
+Jefferson Park,1673,41.9825,-87.7704
+Logan Square,1667,41.9231,-87.7093
+Lower West Side,1571,41.8523,-87.666
+Mckinley Park,1544,41.8316,-87.6729
+North Park,1451,41.9828,-87.7284
+Lincoln Square,1439,41.9687,-87.689
+Edgewater,1430,41.9837,-87.6601
+Albany Park,1408,41.9683,-87.728
+West Ridge,1402,42.0006,-87.6926
+Uptown,1396,41.9665,-87.6533
+Grand Boulevard,1387,41.8131,-87.6178
+Kenwood,1384,41.8095,-87.5933
+Hermosa,1368,41.9207,-87.734
+Rogers Park,1351,42.0126,-87.6746
+O'Hare,1344,41.9742,-87.9073
+South Lawndale,1326,41.8445,-87.705
+Humboldt Park,1302,41.8991,-87.7213
+Irving Park,1268,41.9538,-87.7193
+West Pullman,1253,41.6779,-87.642
+West Garfield Park,1243,41.8779,-87.7305
+Douglas,1225,41.8347,-87.6206
+South Deering,1224,41.6737,-87.5753
+Bridgeport,1219,41.8364,-87.6487
+Englewood,1202,41.7753,-87.6416
+Woodlawn,1183,41.7806,-87.5915
+Washington Park,1182,41.7945,-87.616
+West Englewood,1175,41.7781,-87.6667
+East Garfield Park,1136,41.881,-87.7012
+North Lawndale ,1113,41.859,-87.7152
+Roseland,1084,41.7108,-87.6236
+South Chicago,1048,41.7397,-87.5544
+Austin,1029,41.8949,-87.7654
+Auburn Gresham,1023,41.7434,-87.6562
+Portage Park,1017,41.9532,-87.7646
+South Shore,1012,41.759,-87.57
+Grand Crossing,978,41.7657,-87.6153
+Avalon Park,972,41.7442,-87.5856
+Washington Heights,951,41.7176,-87.6431
+Belmont Cragin,910,41.9313,-87.7663
+Chicago Lawn,894,41.7718,-87.6932
+Chatham,883,41.7401,-87.6146
+Calumet Heights,871,41.7298,-87.5705
